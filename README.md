@@ -1,2 +1,2 @@
-# CAD
-Trabalhos da Disciplina Computação de Alto Desempenho
+# High Performance Computing Class
+High Performance Computing Class codes
